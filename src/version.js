@@ -1,16 +1,16 @@
 const version = (prefix, pushname) => {
     return `
-*FX-BOT-73 🤖*
+*ＲＹＺＥＮ 🤖*
 
-*Actualizado:* 19 De Junio
-*Versión actual:* 73
-*Ofrecida por:* Felixcrack
+*Actualizado:* 5 de sepiembre 2021
+*Versión actual:* 2.0
+*Ofrecido por:* 𝓜𝓐𝓝𝓤
 
-Para conocer la ultima versión de FX-BOT-73 entra al siguiente blog
+Para conocer la ultima versión de ＲＹＺＥＮ entra al siguiente blog
 
 
 
-by Felixcrack
+by 𝓜𝓐𝓝𝓤
 `
 
 }
